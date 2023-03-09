@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactsajan/static/css/main.97e88a73.css",
+    "main.js": "/reactsajan/static/js/main.c7ff8d7f.js",
+    "index.html": "/reactsajan/index.html",
+    "main.97e88a73.css.map": "/reactsajan/static/css/main.97e88a73.css.map",
+    "main.c7ff8d7f.js.map": "/reactsajan/static/js/main.c7ff8d7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97e88a73.css",
+    "static/js/main.c7ff8d7f.js"
+  ]
+}
